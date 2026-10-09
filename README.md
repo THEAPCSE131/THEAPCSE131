@@ -28,9 +28,6 @@ I specialize in **Angular, TypeScript, JavaScript, Node.js**, and REST API integ
 #### [ResumeIQ](https://github.com/THEAPCSE131/ResumeIQ)
 AI-powered resume analyzer built using Angular, Node.js, MongoDB, and Groq AI, providing ATS scores, missing skills, and resume improvement suggestions.
 
-#### [ProductMEAN-App](https://github.com/THEAPCSE131/ProductMEAN-App)
-Full-stack product management application built using Angular, Node.js, Express.js, and MongoDB.
-
 ### 💡 What I'm Interested In
 
 - Building scalable and maintainable web applications
