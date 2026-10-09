@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**THEAPCSE131/THEAPCSE131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abhishek Pathak 👋
 
-Here are some ideas to get you started:
+### Software Engineer | Angular & Full Stack Developer | Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer with **4+ years of experience** building scalable web applications, enterprise platforms, and modern user-centric solutions.
+
+I specialize in **Angular, TypeScript, JavaScript, Node.js**, and REST API integrations, with a growing focus on **Generative AI and AI-powered applications**.
+
+### 🌐 Connect With Me
+
+- 🌍 **Portfolio:** https://abhishekpathak.in
+- 💼 **LinkedIn:** Visit my portfolio for my LinkedIn profile
+- 💻 **GitHub:** https://github.com/THEAPCSE131
+
+### 🛠️ Tech Stack
+
+**Frontend:** Angular • TypeScript • JavaScript • HTML5 • CSS3
+
+**Backend:** Node.js • Express.js • REST APIs
+
+**Database:** MongoDB • SQL
+
+**AI & Tools:** Generative AI • AI Integration • Git • GitHub
+
+### 🚀 Featured Projects
+
+#### [ResumeIQ](https://github.com/THEAPCSE131/ResumeIQ)
+AI-powered resume analyzer built using Angular, Node.js, MongoDB, and Groq AI, providing ATS scores, missing skills, and resume improvement suggestions.
+
+#### [ProductMEAN-App](https://github.com/THEAPCSE131/ProductMEAN-App)
+Full-stack product management application built using Angular, Node.js, Express.js, and MongoDB.
+
+### 💡 What I'm Interested In
+
+- Building scalable and maintainable web applications
+- Developing enterprise-grade Angular applications
+- Exploring Generative AI and intelligent automation
+- Creating practical solutions for real-world problems
+
+---
+
+⭐ Explore my projects and professional experience at **[abhishekpathak.in](https://abhishekpathak.in)**.
+  
